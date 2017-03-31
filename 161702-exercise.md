@@ -1,4 +1,18 @@
 # Exercises
+
+## Exercise 4 "K-means Clustering"
+### Time: 2017-03-31 until 2017-04-07
+### Task
+1. Jalankan contoh tutorial tentang K-means clustering [1].
+2. Lakukan proses clustering menggunakan data [UFO Sightings](https://www.kaggle.com/NUFORC/ufo-sightings). Data yang dapat di-*cluster*  adalah data koordinat *latitude* dan *longitude*.  
+Tahapan *clustering*-nya adalah sebagai berikut:  
+    1. Melakukan *data cleansing* untuk data koordinat yang kosong atau bernilai 0.   
+    Data yang kosong dapat: (a) dihapus, (b) diganti dengan nilai avg, max, min, atau nilai *default* yang lain.
+    2. Melakukan proses *clustering*.
+    3. Menambahkan visualisasi data hasil *cluster* ke dalam diagram Cartesian menggunakan pustaka `matplotlib`.
+
+### References
+1. [Clustering - RDD Based Clustering](https://spark.apache.org/docs/latest/mllib-clustering.html#k-means)
 ## Exercise 3 "Frequent Pattern Mining"
 ### Time: 2017-03-17 until 2017-03-24
 ### Task
