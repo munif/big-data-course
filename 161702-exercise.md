@@ -6,7 +6,7 @@
 **[INDIVIDU]**
 1. Register ke Databricks Community Edition.
 2. Mencoba tutorial pada referensi [1] dengan cara membuat notebook di Databricks masing-masing.
-3. Share link notebook dengan cara menuliskannya di file readme pada repositori Github kelompok.
+3. Share link notebook dengan cara menuliskannya di file readme pada repositori Github kelompok.  
 Dataset untuk contoh web log dapat menggunakan data dari:
     * http://ita.ee.lbl.gov/html/contrib/NASA-HTTP.html
     * https://archive.ics.uci.edu/ml/index.html (cari tentang web log atau access log)
