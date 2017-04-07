@@ -1,5 +1,25 @@
 # Exercises
+---
+## Exercise 5 "K-Means (2): Data Cleansing dan Online Advertisement"
+### Time: 2017-04-07 until 2017-04-14
+### Task
+**[INDIVIDU]**
+1. Register ke Databricks Community Edition.
+2. Mencoba tutorial pada referensi [1] dengan cara membuat notebook di Databricks masing-masing.
+3. Share link notebook dengan cara menuliskannya di file readme pada repositori Github kelompok.
 
+**[KELOMPOK]**
+1. Lanjutkan pemrosesan data UFO dengan melakukan data cleansing seperti pada tutorial [2] *chapter* 7.
+2. Buat visualisasi tampilan K-means menggunakan pustaka `matplotlib` atau fungsi `display()` pada Databricks.
+3. Kumpulkan notebook hasil pekerjaan di repositori Github masing-masing. Apabila kalian menggunakan notebook di Databricks, *copy*-kan public link notebook kalian di file readme.
+
+### References
+[1]“An Illustrated Guide to Advertising Analytics,” Databricks, 02-Feb-2016. [Daring]. Tersedia pada: https://databricks.com/blog/2016/02/02/an-illustrated-guide-to-advertising-analytics.html. [Diakses: 07-Apr-2017].  
+[2] “jvns/pandas-cookbook,” GitHub. [Daring]. Tersedia pada: https://github.com/jvns/pandas-cookbook. [Diakses: 06-Apr-2017].  
+[3] “Big Data Processing with Apache Spark - Part 5: Spark ML Data Pipelines,” InfoQ.   [Daring]. Tersedia pada: https://www.infoq.com/articles/apache-sparkml-data-pipelines. [Diakses: 06-Apr-2017].  
+
+
+---
 ## Exercise 4 "K-means Clustering"
 ### Time: 2017-03-31 until 2017-04-07
 ### Task
@@ -13,6 +33,8 @@ Tahapan *clustering*-nya adalah sebagai berikut:
 
 ### References
 1. [Clustering - RDD Based Clustering](https://spark.apache.org/docs/latest/mllib-clustering.html#k-means)
+
+---
 ## Exercise 3 "Frequent Pattern Mining"
 ### Time: 2017-03-17 until 2017-03-24
 ### Task
@@ -28,6 +50,7 @@ Setelah membuat dataset, proseslah dataset tersebut menggunakan frequent pattern
 1. [Frequent Pattern Mining - RDD-based API](https://spark.apache.org/docs/latest/mllib-frequent-pattern-mining.html)
 2. J. Han, J. Pei, and Y. Yin, "Mining Frequent Patterns Without Candidate Generation," in Proceedings of the 2000 ACM SIGMOD International Conference on Management of Data, New York, NY, USA, 2000, pp. 1–12.
 
+---
 ## Exercise 2
 ### Time: 2017-03-10 until 2017-03-17
 ### Task
@@ -39,6 +62,7 @@ Setelah membuat dataset, proseslah dataset tersebut menggunakan frequent pattern
 ### References
 1. [PySpark Jupyter Notebook Template](https://github.com/munif/big-data-course/blob/master/notebook/PySpark%20Jupyter%20Notebook%20Template.ipynb)
 
+---
 ## Exercise 1
 ### Time: 2017-02-17 until 2017-02-24
 ### References
