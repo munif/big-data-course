@@ -16,7 +16,7 @@ Tugas dikumpulkan dalam bentuk hardcopy minggu depan.
 
 ---
 ## Exercise 6 "Collaborative Filtering"
-### Time: 2017-04-28 untul 2017-05-05
+### Time: 2017-04-28 until 2017-05-05
 ### Task
 1. Kerjakan tutorial *collaborative filtering* pada referensi [1].
 2. Kerjakan tutorial Movie Recommendation pada referensi [2]. Unduh dataset dari referensi [3].
