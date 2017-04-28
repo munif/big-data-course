@@ -19,7 +19,7 @@ Tugas dikumpulkan dalam bentuk hardcopy minggu depan.
 ### Time: 2017-04-28 untul 2017-05-05
 ### Task
 1. Kerjakan tutorial *collaborative filtering* pada referensi [1].
-2. Kerjakan tutorial Movie Recommendation pada referensi [2]. Unduh dataset dari referensi [3]().
+2. Kerjakan tutorial Movie Recommendation pada referensi [2]. Unduh dataset dari referensi [3].
 3. Tambahkan proses untuk menentukan film dengan rating tertinggi (top 10) dan user yang paling aktif memberikan rating (top 10). Tampilkan grafiknya menggunakan `matplotlib` atau visualisasi dari Databricks.
 4. Import data `rating.csv`, `movies.csv`, `links.csv`, `tags.csv` ke dalam basis data MySQL.
 5. Buatlah tabel `recommendation` untuk menyimpan data hasil rekomendasi. Proses *insert* data ke dalam tabel ini dapat menggunakan Spark atau menggunakan cara import manual.
