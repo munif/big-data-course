@@ -36,7 +36,15 @@ Tugas dikumpulkan dalam bentuk hardcopy minggu depan.
 **[INDIVIDU]**
 1. Register ke Databricks Community Edition.
 2. Mencoba tutorial pada referensi [1] dengan cara membuat notebook di Databricks masing-masing.
-3. Share link notebook dengan cara menuliskannya di file readme pada repositori Github kelompok.
+3. Share link notebook dengan cara menuliskannya di file readme pada repositori Github kelompok.  
+Dataset untuk contoh web log dapat menggunakan data dari:
+    * http://ita.ee.lbl.gov/html/contrib/NASA-HTTP.html
+    * https://archive.ics.uci.edu/ml/index.html (cari tentang web log atau access log)
+        * Anonymous Microsoft Web Data
+        * MSNBC.com Anonymous Web Data
+        * Syskill and Webert Web Page Ratings
+    * http://ita.ee.lbl.gov/html/traces.html
+    * https://www.quora.com/Are-there-any-free-large-datasets-in-the-format-of-an-Apache-access-log
 
 **[KELOMPOK]**
 1. Lanjutkan pemrosesan data UFO dengan melakukan data cleansing seperti pada tutorial [2] *chapter* 7.
