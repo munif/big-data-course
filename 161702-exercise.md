@@ -1,6 +1,6 @@
 # Exercises
 ---
-## Guest Lecture ""
+## Guest Lecture "Engineering Scalable Chat for Millions of BukaLapak Users"
 ### Time: 2017-04-28 start at 09.00 AM
 ### Task
 1. Buatlah rangkuman mengenai kuliah tamu hari ini (1-2 halaman A4, diketik).
@@ -27,7 +27,7 @@ Tugas dikumpulkan dalam bentuk hardcopy minggu depan.
 ### References
 [1] [Collaborative Filtering - RDD-based API](https://spark.apache.org/docs/2.1.0/mllib-collaborative-filtering.html)  
 [2] [Movie Recommendation with MLlib](https://databricks-training.s3.amazonaws.com/movie-recommendation-with-mllib.html)  
-[3]()
+[3] [MovieLens Dataset](https://grouplens.org/datasets/movielens/)
 
 ---
 ## Exercise 5 "K-Means (2): Data Cleansing dan Online Advertisement"
