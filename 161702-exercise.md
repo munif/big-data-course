@@ -1,5 +1,35 @@
 # Exercises
 ---
+## Guest Lecture "Engineering Scalable Chat for Millions of BukaLapak Users"
+### Time: 2017-04-28 start at 09.00 AM
+### Task
+1. Buatlah rangkuman mengenai kuliah tamu hari ini (1-2 halaman A4, diketik).
+2. Pada lembar berikutnya, buatlah jawaban atas beberapa pertanyaan berikut.
+   1. Bagaimana data chat user disimpan?
+   2. Bagaimana cara menangani jumlah user yang sangat banyak?
+   3. Informasi apa yang dapat digali (*data mining*) dari data chat user? Contoh: barang favorit, seller teresponsif, peak time penggunaan chat, dll.
+   4. Tools apa yang digunakan untuk membantu dalam proses penyimpanan dan pemrosesan data?
+   5. Apa saja hasil yang diperoleh dalam implementasi fitur chat di BukaLapak?
+   6. Pertanyaan-pertanyaan lain yang mungkin ada saat kuliah tamu.  
+
+Tugas dikumpulkan dalam bentuk hardcopy minggu depan.
+
+---
+## Exercise 6 "Collaborative Filtering"
+### Time: 2017-04-28 until 2017-05-05
+### Task
+1. Kerjakan tutorial *collaborative filtering* pada referensi [1].
+2. Kerjakan tutorial Movie Recommendation pada referensi [2]. Unduh dataset dari referensi [3].
+3. Tambahkan proses untuk menentukan film dengan rating tertinggi (top 10) dan user yang paling aktif memberikan rating (top 10). Tampilkan grafiknya menggunakan `matplotlib` atau visualisasi dari Databricks.
+4. Import data `rating.csv`, `movies.csv`, `links.csv`, `tags.csv` ke dalam basis data MySQL.
+5. Buatlah tabel `recommendation` untuk menyimpan data hasil rekomendasi. Proses *insert* data ke dalam tabel ini dapat menggunakan Spark atau menggunakan cara import manual.
+
+### References
+[1] [Collaborative Filtering - RDD-based API](https://spark.apache.org/docs/2.1.0/mllib-collaborative-filtering.html)  
+[2] [Movie Recommendation with MLlib](https://databricks-training.s3.amazonaws.com/movie-recommendation-with-mllib.html)  
+[3] [MovieLens Dataset](https://grouplens.org/datasets/movielens/)
+
+---
 ## Exercise 5 "K-Means (2): Data Cleansing dan Online Advertisement"
 ### Time: 2017-04-07 until 2017-04-14
 ### Task
