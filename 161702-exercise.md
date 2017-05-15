@@ -3,13 +3,17 @@
 ## Exercise 7 "Streaming"
 ### Time: 2017-05-12 until 2017-05-19
 ### Task
-1. Kerjakan latihan streaming pada tutorial Databricks di referensi [].
-2. Kerjakan tutorial di 
+Sifat: **INDIVIDU**  
+1. Kerjakan latihan Twitter streaming pada tutorial Databricks di referensi [1].
+2. Kerjakan tutorial "Structured Streaming" pada referensi [2].
+
+Pengumpulan dilakukan dengan cara menuliskan link Databricks Notebook di file README.md pada repository masing-masing (dengan diberi keterangan "Exercise 7"). Pengerjaan menggunakan bahasa Scala untuk scripting Apache Spark-nya. Apabila ada kesulitan dalam memahami bahasa Scala, dapat membaca referensi [3] dan [4].
 
 ### References
-[1] [Collaborative Filtering - RDD-based API](https://spark.apache.org/docs/2.1.0/mllib-collaborative-filtering.html)  
-[2] [Movie Recommendation with MLlib](https://databricks-training.s3.amazonaws.com/movie-recommendation-with-mllib.html)  
-[3] [MovieLens Dataset](https://grouplens.org/datasets/movielens/)
+[1] [Twitter Hastag Count - Scala](https://docs.cloud.databricks.com/docs/latest/databricks_guide/07%20Spark%20Streaming/03%20Twitter%20Hashtag%20Count%20-%20Scala.html)  
+[2] [Structured Streaming](https://docs.databricks.com/spark/latest/structured-streaming/index.html)  
+[3] [A Scala Tutorial for Java Programmer](http://www.scala-lang.org/docu/files/ScalaTutorial.pdf)  
+[4] [Tour of Scala](http://docs.scala-lang.org/tutorials/tour/tour-of-scala.html)  
 
 ---
 ## Guest Lecture "Engineering Scalable Chat for Millions of BukaLapak Users"
