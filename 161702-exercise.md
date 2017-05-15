@@ -7,7 +7,7 @@ Sifat: **INDIVIDU**
 1. Kerjakan latihan Twitter streaming pada tutorial Databricks di referensi [1].
 2. Kerjakan tutorial "Structured Streaming" pada referensi [2].
 
-Pengumpulan dilakukan dengan cara menuliskan link Databricks Notebook di file README.md pada repository masing-masing (dengan diberi keterangan "Exercise 7"). Pengerjaan menggunakan bahasa Scala untuk scripting Apache Spark-nya. Apabila ada kesulitan dalam memahami bahasa Scala, dapat membaca referensi [3] dan [4].
+Pengumpulan dilakukan dengan cara menuliskan link Databricks Notebook di file README.md pada repository masing-masing (dengan diberi keterangan "Exercise 7"). Pengerjaan menggunakan bahasa Scala untuk scripting Apache Spark. Apabila ada kesulitan dalam memahami bahasa Scala dapat membaca referensi [3] dan [4].
 
 ### References
 [1] [Twitter Hastag Count - Scala](https://docs.cloud.databricks.com/docs/latest/databricks_guide/07%20Spark%20Streaming/03%20Twitter%20Hashtag%20Count%20-%20Scala.html)  
