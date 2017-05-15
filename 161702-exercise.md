@@ -10,7 +10,7 @@ Sifat: **INDIVIDU**
 Pengumpulan dilakukan dengan cara menuliskan link Databricks Notebook di file README.md pada repository masing-masing (dengan diberi keterangan "Exercise 7"). Pengerjaan menggunakan bahasa Scala untuk scripting Apache Spark. Apabila ada kesulitan dalam memahami bahasa Scala dapat membaca referensi [3] dan [4].
 
 ### References
-[1] [Twitter Hastag Count - Scala](https://docs.cloud.databricks.com/docs/latest/databricks_guide/07%20Spark%20Streaming/03%20Twitter%20Hashtag%20Count%20-%20Scala.html)  
+[1] [Twitter Hashtag Count - Scala](https://docs.cloud.databricks.com/docs/latest/databricks_guide/07%20Spark%20Streaming/03%20Twitter%20Hashtag%20Count%20-%20Scala.html)  
 [2] [Structured Streaming](https://docs.databricks.com/spark/latest/structured-streaming/index.html)  
 [3] [A Scala Tutorial for Java Programmer](http://www.scala-lang.org/docu/files/ScalaTutorial.pdf)  
 [4] [Tour of Scala](http://docs.scala-lang.org/tutorials/tour/tour-of-scala.html)  
