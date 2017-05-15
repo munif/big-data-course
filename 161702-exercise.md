@@ -1,5 +1,17 @@
 # Exercises
 ---
+## Exercise 7 "Streaming"
+### Time: 2017-05-12 until 2017-05-19
+### Task
+1. Kerjakan latihan streaming pada tutorial Databricks di referensi [].
+2. Kerjakan tutorial di 
+
+### References
+[1] [Collaborative Filtering - RDD-based API](https://spark.apache.org/docs/2.1.0/mllib-collaborative-filtering.html)  
+[2] [Movie Recommendation with MLlib](https://databricks-training.s3.amazonaws.com/movie-recommendation-with-mllib.html)  
+[3] [MovieLens Dataset](https://grouplens.org/datasets/movielens/)
+
+---
 ## Guest Lecture "Engineering Scalable Chat for Millions of BukaLapak Users"
 ### Time: 2017-04-28 start at 09.00 AM
 ### Task
