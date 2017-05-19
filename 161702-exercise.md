@@ -4,7 +4,7 @@
 ### Time: 2017-05-19 until 2017-05-26
 ### Task
 Sifat: **INDIVIDU**
-1. Isikan daftar teman kalian ke dalam sheet berikut https://goo.gl/o3C9YK. Deadline hari Selasa, 23 Mei 2017 jam 16.00.  
+1. Isikan daftar teman kalian pada sheet "Social Graph" berikut https://goo.gl/o3C9YK. Deadline hari Selasa, 23 Mei 2017 jam 16.00.  
 2. Lakukan graph analysis pada data tersebut dengan mengikuti contoh pada referensi [1].  
 3. Kumpulkan link notebook Databricks kalian pada file README.md di repository kelompok masing-masing.  
 
