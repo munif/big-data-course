@@ -5,7 +5,10 @@
 ### Task
 Sifat: **INDIVIDU**
 1. Isikan daftar teman kalian pada sheet "Social Graph" berikut https://goo.gl/o3C9YK. Deadline hari Selasa, 23 Mei 2017 jam 16.00.  
-2. Lakukan graph analysis pada data tersebut dengan mengikuti contoh pada referensi [1].  
+2. Lakukan graph analysis pada data tersebut dengan mengikuti contoh pada referensi [1]. Output yang diharapkan adalah:
+   * Printout hasil PageRank
+   * Data in degrees (top 10)
+   * Data out degrees (top 10)
 3. Kumpulkan link notebook Databricks kalian pada file README.md di repository kelompok masing-masing.  
 
 Tugas Kelompok  
