@@ -1,3 +1,8 @@
+# Final Project
+Isi jadwal demo final project pada tautan berikut: http://bit.ly/DemoFPBigData1617
+
+---
+
 # Exercises
 ---
 ## Exercise 8 "Graph Analysis"
